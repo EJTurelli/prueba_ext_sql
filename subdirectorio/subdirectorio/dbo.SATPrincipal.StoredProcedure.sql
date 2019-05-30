@@ -9,7 +9,6 @@ GO
 -- Modificaciones:
 -- Fecha      Versión Autor      Detalle
 -- 12/10/2016   01    Pablo Díaz Elaboración
--- Prueba 32
 create procedure [dbo].[SATPrincipal]
    @PaqIn1 varchar(256),
    @PaqIn2 varchar(256),
